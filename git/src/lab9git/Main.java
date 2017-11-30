@@ -8,4 +8,5 @@ public class Main {
     public void min(){}
     public void max(){}
     public void even(){}
+    public void odd(){}
 }
