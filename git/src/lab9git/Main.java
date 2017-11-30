@@ -7,4 +7,5 @@ public class Main {
     }
     public void min(){}
     public void max(){}
+    public void odd(){}
 }
